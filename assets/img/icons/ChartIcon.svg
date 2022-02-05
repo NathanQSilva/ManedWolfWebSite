@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="chart" viewBox="0 0 24 24">
+		<title>Chart Icon</title>
+		<path d="M10,2.201V12v2h2h9.799c-0.929,4.559-4.97,8-9.799,8C6.486,22,2,17.514,2,12C2,7.171,5.441,3.13,10,2.201M12,0C5.373,0,0,5.373,0,12s5.373,12,12,12c6.627,0,12-5.373,12-12H12V0L12,0z"></path>
+		<path d="M16,2.659c2.395,1.03,4.312,2.947,5.342,5.341H16V2.659 M14,0v10h10C23.14,4.889,19.109,0.86,14,0L14,0z"></path>
+	</symbol></defs>
+										<use xlink:href="#chart" fill="#444444" stroke-width="2px"></use>
+									</svg>

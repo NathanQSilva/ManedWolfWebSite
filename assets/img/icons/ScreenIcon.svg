@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="44"  height="50" ><defs><symbol id="screen" viewBox="0 0 44 50">
+		<title>Screen Icon</title>
+		<path d="M41.161,36H2.839C1.271,36,0,34.711,0,33.121v-5.112V26V2.88C0,1.29,1.271,0,2.839,0h38.322C42.729,0,44,1.29,44,2.88V26v2.009v5.112C44,34.711,42.729,36,41.161,36z M42,2H2v24h40V2zM42,28.009H2v5.995h40V28.009z M23,32.004h-2v-2.001h2V32.004z"></path>
+		<path d="M32.471,46l1.89,2H9.64l1.889-2H32.471 M33.333,44H10.667L5,50h34L33.333,44L33.333,44z"></path>
+		<path d="M26.438,36l2.001,8H15.562l2-8H26.438 M27.999,34H16l-3,12h18L27.999,34L27.999,34z"></path>
+	</symbol></defs>
+										<use xlink:href="#screen" fill="#444444" stroke-width="2px"></use>
+									</svg>

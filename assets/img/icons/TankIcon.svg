@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="tank" viewBox="0 0 14 14">
+		<title>Tank Icon</title>
+		<path d="M13,7.435v0.159h-0.009c-0.013,0.146-0.043,0.329-0.114,0.475c-0.138,0.281-1.546,2.224-2.326,3.085C9.771,12.013,7.658,14,7,14s-2.771-1.987-3.552-2.847C2.668,10.292,1.26,8.35,1.122,8.068c-0.071-0.146-0.101-0.33-0.113-0.475H1V7.435C0.999,7.387,1,7.356,1,7.356V4.864V2.136C1,1.413,1.175,0.206,7,0c5.824,0.206,6,1.413,6,2.135v2.729v2.492C13,7.356,13.001,7.387,13,7.435z"></path>
+	</symbol></defs>
+										<use xlink:href="#tank" fill="#444444" stroke-width="2px"></use>
+									</svg>

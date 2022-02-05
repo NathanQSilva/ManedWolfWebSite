@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="kills" viewBox="0 0 24 24">
+		<title>Kills Icon</title>
+		<path d="M4.587,15.001H2.459C3.436,18.107,5.893,20.55,9,21.527v-2.134C7.001,18.58,5.397,17.001,4.587,15.001z M2.459,9h2.128C5.397,7,7.001,5.42,9,4.606V2.474C5.893,3.452,3.435,5.892,2.459,9z M19.413,9h2.128C20.564,5.893,18.107,3.452,15,2.474v2.133C16.998,5.42,18.603,7,19.413,9z M15,19.394v2.134c3.106-0.978,5.564-3.42,6.541-6.526h-2.128C18.603,17.001,16.998,18.58,15,19.394z M11,8h2V0h-2V8z M11,24h2v-7.999h-2V24z M16,11.001v2h8v-2H16z M8,11.001H0v2h8V11.001z M11,13.001h2v-2h-2V13.001z"></path>
+	</symbol></defs>
+										<use xlink:href="#kills" fill="#444444" stroke-width="2px"></use>
+									</svg>

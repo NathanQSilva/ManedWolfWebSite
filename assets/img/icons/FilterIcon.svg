@@ -1,0 +1,10 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--filter" width="32"  height="32" >
+	<defs>
+		<symbol id="filter" viewBox="0 0 14 14">
+			<title>Filter Icon</title>
+			<path d="M12,0v6h2V0H12z M12,10h2V8h-2V10z M12,14h2v-2h-2V14z M6,14h2V8H6V14z M6,6h2V4H6V6z M6,2h2V0H6V2z M0,6h2V0H0V6z M0,10h2V8H0V10z M0,14h2v-2H0V14z">
+			</path>
+		</symbol>
+	</defs>
+	<use xlink:href="#filter" fill="#444444" stroke-width="2px"></use>
+</svg>

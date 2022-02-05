@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="comments-small" viewBox="0 0 10 10">
+		<title>Comments Small Icon</title>
+		<path d="M8,2v3.984H3.022H2.417L2,6.263V6V2H8 M8.571,0H1.429C0.64,0,0,0.715,0,1.597V6v0.389V10l3.022-2.016h5.549C9.36,7.984,10,7.27,10,6.389V1.597C10,0.715,9.36,0,8.571,0L8.571,0z"></path>
+	</symbol></defs>
+										<use xlink:href="#comments-small" fill="#444444" stroke-width="2px"></use>
+									</svg>

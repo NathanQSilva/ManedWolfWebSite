@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="offense" viewBox="0 0 14 14">
+		<title>Offense Icon</title>
+		<path d="M0,14h4v-2H0V14z M5,14h4v-2H5V14z M10,14h4v-2h-4V14z M2,0C0.528,0,0,4,0,4v7h4V4C4,4,3.527,0,2,0z M7,0C5.528,0,5,4,5,4v7h4V4C9,4,8.527,0,7,0z M12,0c-1.472,0-2,4-2,4v7h4V4C14,4,13.527,0,12,0z"></path>
+	</symbol></defs>
+										<use xlink:href="#offense" fill="#444444" stroke-width="2px"></use>
+									</svg>

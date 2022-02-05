@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="30"  height="30" ><defs><symbol id="bag" viewBox="0 0 24 24">
+		<title>Bag Icon</title>
+		<path d="M19,6v0.063l0.004,0.063L19.996,22H4.004L4.996,6.125L5,6.063V6H19 M19,4H5C3.896,4,3,4.896,3,6L2,22c0,1.104,0.896,2,2,2h16c1.104,0,2-0.896,2-2L21,6C21,4.896,20.104,4,19,4L19,4z"></path>
+		<path d="M9,8V4.824C9,3.267,10.267,2,11.824,2H12h0.088C13.646,2,15,3.267,15,4.824V8h2V4.824C17,2.16,14.84,0,12.176,0h-0.352C9.16,0,7,2.16,7,4.824V8H9z"></path>
+	</symbol></defs>
+						<use xlink:href="#bag" fill="#FFFFFF" stroke-width="2px"></use>
+					</svg>

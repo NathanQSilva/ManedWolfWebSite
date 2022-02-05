@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="hardware" viewBox="0 0 12 12">
+		<title>Player Hardware Icon</title>
+		<path d="M10,8H7v2h2v2H3v-2h2V8H2C0.896,8,0,7.104,0,6V2c0-1.104,0.896-2,2-2h8c1.104,0,2,0.896,2,2v4C12,7.104,11.104,8,10,8z M10,2H2v4h8V2z"></path>
+	</symbol></defs>
+										<use xlink:href="#hardware" fill="#444444" stroke-width="2px"></use>
+									</svg>

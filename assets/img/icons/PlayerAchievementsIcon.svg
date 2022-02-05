@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="achievements" viewBox="0 0 12 12">
+		<title>Player Achievements Icon</title>
+		<path d="M8,2v2c0,1.103-0.897,2-2,2C4.897,6,4,5.103,4,4V2H8 M10,0H2v4c0,2.209,1.791,4,4,4s4-1.791,4-4V0L10,0z"></path>
+		<path d="M7,7H5v3H3v2h6v-2H7V7z M10,2v2h2V2H10z M0,4h2V2H0V4z"></path>
+	</symbol></defs>
+										<use xlink:href="#achievements" fill="#444444" stroke-width="2px"></use>
+									</svg>

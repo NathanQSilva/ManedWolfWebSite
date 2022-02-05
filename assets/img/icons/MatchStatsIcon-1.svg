@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--stats" width="16"  height="16" ><defs><symbol id="stats" viewBox="0 0 12 12">
+		<title>Match Stats Icon</title>
+		<path d="M5,12h2V0H5V12z M1,12h2V4H1V12z M9,6v6h2V6H9z"></path>
+	</symbol></defs>
+												<use xlink:href="#stats" fill="#5E627E" stroke-width="2px"></use>
+											</svg>

@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--close" width="18"  height="14" ><defs><symbol id="close" viewBox="0 0 18 14">
+		<title>Close Icon</title>
+		<path d="M16,1.399L10.4,7l5.599,5.6L14.6,14L9,8.399L3.4,14l-1.399-1.4
+		l5.6-5.6L2,1.399L3.399,0L9,5.601L14.601,0L16,1.399z"></path>
+	</symbol></defs>
+						<use xlink:href="#close" fill="#FFFFFF" stroke-width="2px"></use>
+					</svg>

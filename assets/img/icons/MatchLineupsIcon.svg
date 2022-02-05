@@ -1,0 +1,7 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="lineups" viewBox="0 0 12 12">
+		<title>Match Lineups Icon</title>
+		<path d="M6,2c0.551,0,1,0.449,1,1S6.551,4,6,4S5,3.551,5,3S5.449,2,6,2M6,0C4.343,0,3,1.343,3,3s1.343,3,3,3c1.656,0,3-1.343,3-3S7.656,0,6,0L6,0z"></path>
+		<path d="M4,10h4c1.103,0,2,0.896,2,2h2c0-2.209-1.791-4-4-4H4c-2.209,0-4,1.791-4,4h2C2,10.896,2.897,10,4,10z"></path>
+	</symbol></defs>
+										<use xlink:href="#lineups" fill="#444444" stroke-width="2px"></use>
+									</svg>

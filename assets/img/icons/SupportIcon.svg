@@ -1,0 +1,8 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="support" viewBox="0 0 14 14">
+		<title>Support Icon</title>
+		<path d="M13,9H9v4c0,0.553-0.447,1-1,1H6c-0.552,0-1-0.447-1-1V9H1
+		C0.448,9,0,8.552,0,8V6c0-0.553,0.448-1,1-1h4V1c0-0.553,0.448-1,1-1h2c0.553,0,1,0.447,1,1v4h4c0.553,0,1,0.447,1,1v2
+		C14,8.552,13.553,9,13,9z"></path>
+	</symbol></defs>
+										<use xlink:href="#support" fill="#444444" stroke-width="2px"></use>
+									</svg>

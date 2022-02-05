@@ -1,0 +1,6 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--account" width="30"  height="30" ><defs><symbol id="account" viewBox="0 0 24 24">
+		<title>Account Icon</title>
+		<path d="M11.984,16.985c2.206,0,3.992-0.885,3.992-1.977H7.991C7.991,16.101,9.778,16.985,11.984,16.985z M8.989,9.003H6.988v1.999h2.001V9.003z M11.999,0C5.372,0,0,5.372,0,12c0,6.627,5.372,12,11.999,12C18.627,24,24,18.627,24,12C24,5.372,18.627,0,11.999,0z M11.99,21.992c-5.524,0-10.004-4.474-10.004-9.991S6.466,2.01,11.99,2.01s10.004,4.474,10.004,9.991S17.515,21.992,11.99,21.992z M14.991,11.002h2.001V9.003h-2.001V11.002z"></path>
+	</symbol></defs>
+								<use xlink:href="#account" fill="#FFFFFF" stroke-width="2px"></use>
+							</svg>

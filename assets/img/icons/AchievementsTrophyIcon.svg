@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="44"  height="50" ><defs><symbol id="achievements-trophy" viewBox="0 0 44 50">
+		<title>Achievements Trophy Icon</title>
+		<path d="M29,38v10H15V38H29 M31,36H13v14h18V36L31,36z"></path>
+		<path d="M25,32v1.997h1.993L26.986,36h-9.983l-0.002-2.003H19V32H25 M27,30H17v1.997h-2l0.004,4.667V38h13.98v-1.336L29,31.997h-2V30L27,30z"></path>
+		<path d="M21,25h2v6.033h-2V25z"></path>
+		<path d="M32,2v11.722C32,19.389,27.514,24,22,24c-5.514,0-10-4.611-10-10.278V2H32 M34,0H10v13.722C10,20.504,15.373,26,22,26c6.628,0,12-5.496,12-12.278V0L34,0z"></path>
+		<path d="M43.974,2.054L34.052,2H32v17.984C45.12,18.491,43.974,2.054,43.974,2.054z M38.222,14.922c-1.594,1.714-3.628,2.679-6.184,3.013L32.05,4h1.888H42C41.889,6.661,41.231,11.687,38.222,14.922z"></path>
+		<path d="M12,19.984V2H9.947L0.026,2.054C0.026,2.054-1,18.491,12,19.984z M1.999,4h8.063h1.888l0.012,13.935c-2.556-0.333-4.59-1.299-6.184-3.013C2.768,11.687,2.11,6.661,1.999,4z"></path>
+	</symbol></defs>
+										<use xlink:href="#achievements-trophy" fill="#444444" stroke-width="2px"></use>
+									</svg>

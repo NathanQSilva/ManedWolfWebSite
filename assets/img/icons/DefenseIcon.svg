@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" role="img" class="df-icon df-icon--bag" width="32"  height="32" ><defs><symbol id="defense" viewBox="0 0 14 14">
+		<title>Defense Icon</title>
+		<path d="M13,14H1c-0.553,0-1-0.448-1-1v-1c0-0.553,0.447-1,1-1h12
+		c0.552,0,1,0.447,1,1v1C14,13.552,13.552,14,13,14z M3.029,7.007h7.977c0,0-0.388,3.989,1.782,3.989c-1.431,0-10.142,0-11.572,0
+		C3.386,10.996,3.029,7.007,3.029,7.007z M11,5H8H6H3C2.447,5,2,4.552,2,4V2V1c0-0.553,0.447-1,1-1c0.552,0,1,0.447,1,1h1
+		c0-0.553,0.447-1,1-1h2c0.552,0,1,0.447,1,1h1c0-0.553,0.447-1,1-1c0.552,0,1,0.447,1,1v1v2C12,4.552,11.552,5,11,5z"></path>
+	</symbol></defs>
+										<use xlink:href="#defense" fill="#444444" stroke-width="2px"></use>
+									</svg>
